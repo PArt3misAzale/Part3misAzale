@@ -7,7 +7,7 @@ I started programming when I was 12 with python, but in the beginning of 2024 I 
 I always tried to make games but I couldn't focus. I'm now in a project and my objective is clear : get a good base game at the end of my current cursus.
 
 # Project
-I'm currently creating a plateformer game using Godot since the 23.09.2025
+I'm currently creating a 3D engine called [Azale3](https://github.com/PArt3misAzale/Azale3)
 
 # Contact me
 - Discord : part3mis_azale (PArt3mis)
