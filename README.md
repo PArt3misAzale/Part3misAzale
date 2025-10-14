@@ -4,7 +4,7 @@ I'm a 17 year-old French developer, currently in first year of IUT in informatic
 
 I started programming when I was 12 with python, but in the beginning of 2024 I transitioned to Java and starting trying other programming languages such as C, C++ and HTML5 (even though it's not a programming language ^^).
 
-I always tried to make games but I couldn't focus. I'm now in a project and my objective is clear : get a good base game at the end of my current cursus.
+I always tried to make games but I couldn't focus. I'm now in a project and my objective is clear : get a good base at the end of my current cursus.
 
 # Project
 I'm currently creating a 3D engine called [Azale3](https://github.com/PArt3misAzale/Azale3)
