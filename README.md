@@ -11,8 +11,8 @@ I'm currently creating a 3D engine called [Azale3](https://github.com/PArt3misAz
 And I'm doing a programming language called [Azalée](https://GitHub.com/PArt3misAzale/Azalee-language)
 
 # Contact me
-- Discord : part3mis_azale (PArt3mis)
-- Instagram: part3mis_azale (PArt3mis)
+- Discord : part3mis_azale (part3mis_azale)
+- Instagram: part3mis_azale (part3mis_azale)
 - University email: thomas.martin7@etu.univ-orleans.fr
 
 ## Some tools i have learned
