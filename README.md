@@ -8,6 +8,7 @@ I always tried to make games but I couldn't focus. I'm now in a project and my o
 
 # Project
 I'm currently creating a 3D engine called [Azale3](https://github.com/PArt3misAzale/Azale3)
+And I'm doing a programming language called [Azalée](https://GitHub.com/PArt3misAzale/Azalee-language)
 
 # Contact me
 - Discord : part3mis_azale (PArt3mis)
