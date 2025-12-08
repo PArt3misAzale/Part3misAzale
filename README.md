@@ -7,9 +7,7 @@ I started programming when I was 12 with python, but in the beginning of 2024 I 
 I always tried to make games but I couldn't focus. I'm now in a project and my objective is clear : get a good base at the end of my current cursus.
 
 # Project
-I'm currently creating a 3D engine called [Azale3](https://github.com/PArt3misAzale/Azale3)
-
-And I'm doing a programming language called [Azalée](https://gitHub.com/PArt3misAzale/Azalee-language)
+And I'm creating a programming language called [Azalée](https://gitHub.com/PArt3misAzale/Azalee-language)
 
 # Contact me
 - Discord : part3mis_azale (part3mis_azale)
