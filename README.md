@@ -12,17 +12,17 @@ I'm currently creating a self-hosted calendar type application for couples or fa
 This application will have a build-in period cycle calendar optimised for couples.
 
 ### Completion for base project :
-Server : 40%
-Desktop Application : 2%
-Mobile application : 0%
-Web application : 2%
+- Server : 40%
+- Desktop Application : 2%
+- Mobile application : 0%
+- Web application : 2%
 
 ## Package manager
 I'm trying to create a self-hosted package manager to manage your project and install them easily on each of your local machines.
 
 ### Completion for base project :
-Server : 80%
-Client app : 100%
+- Server : 80%
+- Client app : 100%
 
 # Contact me
 - Discord : part3mis_azale (part3mis_azale)
