@@ -12,10 +12,10 @@ I'm currently creating a self-hosted calendar type application for couples or fa
 This application will have a build-in period cycle calendar optimised for couples.
 
 ### Completion for base project :
-- Server : 40%
-- Desktop Application : 2%
+- Server : 83%
+- Desktop Application : 25%
 - Mobile application : 0%
-- Web application : 2%
+- Web application : 25%
 
 ## Package manager
 I'm trying to create a self-hosted package manager to manage your project and install them easily on each of your local machines.
