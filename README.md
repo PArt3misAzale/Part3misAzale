@@ -1,6 +1,6 @@
 ### Hi i'm Part3mis 👋
 
-I'm a 17 year-old French developer, currently in first year of IUT in informatic department at [Orléans's university](https://www.univ-orleans.fr/)
+I'm a 17 year-old French developer, currently in first year of IUT in informatic department in France.
 
 I started programming when I was 12 with python, but in the beginning of 2024 I transitioned to Java and starting trying other programming languages such as C, C++ and HTML5 (even though it's not a programming language ^^).
 
@@ -27,7 +27,6 @@ I'm trying to create a self-hosted package manager to manage your project and in
 # Contact me
 - Discord : part3mis_azale (part3mis_azale)
 - Instagram: part3mis_azale (part3mis_azale)
-- University email: thomas.martin7@etu.univ-orleans.fr
 
 ## Some tools i have learned
 ### IDEs
